@@ -1,3 +1,2 @@
-﻿using Xamarin.Forms.Xaml;
-
-[assembly: XamlCompilation(XamlCompilationOptions.Compile)]
+﻿    using Microsoft.Maui.Controls.Xaml;
+    [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
